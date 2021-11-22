@@ -16,7 +16,7 @@ namespace Linux_Distro_Chooser
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmWelcome());
         }
     }
 }

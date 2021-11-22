@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Linux_Distro_Chooser
 {
-    public partial class Form1 : Form
+    public partial class frmChooseGUI : Form
     {
-        public Form1()
+        public frmChooseGUI()
         {
             InitializeComponent();
         }
